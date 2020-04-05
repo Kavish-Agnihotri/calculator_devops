@@ -20,6 +20,7 @@ public class Main
 		System.out.println("\t3.Multiplication");
 		System.out.println("\t4.Division");
 		System.out.println("\t5.Exit");
+		System.out.println("Testing");
 
 		int choice=Scan.nextInt();
 
